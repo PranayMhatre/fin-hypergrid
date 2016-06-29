@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "automat": "1.2.0",
-    "extend-me": "2.2.2",
+    "extend-me": "^2.2.3",
     "filter-tree": "0.3.32",
     "finbars": "1.5.1",
     "fincanvas": "1.2.1",
